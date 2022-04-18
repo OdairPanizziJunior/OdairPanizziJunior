@@ -1,15 +1,16 @@
-### Hi there 👋
+## **Hi there** 👋
+### Welcome to my GitHub :copyright:
 
-##### 🔭 I’m currently working on JBS Foods
-##### 🌱 I’m currently learning 
+##### :construction_worker: I’m currently working on JBS Foods
+##### :books: I’m currently learning 
 * PHP
 * JS
 * NODE
 * REACT
 ##### 👯 I’m looking to collaborate on the entire developer community
-##### 📫 [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
-##### ⚡Fun fact: "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - Warren Buffet
 
+#### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
+# 📫 [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 
 
 <!--
