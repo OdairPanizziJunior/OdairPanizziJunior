@@ -8,6 +8,9 @@
 * REACT
 ##### 👯 I’m looking to collaborate on the entire developer community
 ##### 📫 How to reach me: <https://www.linkedin.com/in/odairpanizzijunior/>
+#####⚡ Fun fact: "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - Warren Buffet
+
+
 
 <!--
 **OdairPanizziJunior/OdairPanizziJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
