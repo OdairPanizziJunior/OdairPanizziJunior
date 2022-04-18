@@ -7,7 +7,7 @@
 * NODE
 * REACT
 ##### 👯 I’m looking to collaborate on the entire developer community
-##### 📫 How to reach me: <https://www.linkedin.com/in/odairpanizzijunior/>
+##### 📫 [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 ##### ⚡Fun fact: "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - Warren Buffet
 
 
