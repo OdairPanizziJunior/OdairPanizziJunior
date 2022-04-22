@@ -1,8 +1,8 @@
 ## **Hi there** 👋
 ### Welcome to my GitHub :copyright:
 
-##### :construction_worker: I’m currently working on JBS Foods
-##### :books: I’m currently learning 
+##### :construction_worker: Looking for a oportunity :eyes:
+
 * PHP
 * JS
 * NODE
@@ -12,7 +12,7 @@
 ##### 👯 I’m looking to collaborate on the entire developer community
 
 #### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
-# 📫 [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
+# :link: [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 
 
 <!--
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+##### :books: 
+##### :construction_worker: I’m currently working on JBS Foods
 -->
