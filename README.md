@@ -9,6 +9,7 @@
 * REACT
 * Python
 * C++
+* TypeSctipt
 ##### 👯 I’m looking to collaborate on the entire developer community
 
 #### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
