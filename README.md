@@ -7,7 +7,7 @@
 * JS
 * Oracle
 * MySql
-##### 👯 I’m looking to collaborate on the entire developer community
+##### 👯 I’m looking to collaborate on the entire developer community :computer:
 
 #### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
 # :link: [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
