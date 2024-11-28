@@ -2,15 +2,12 @@
 
 
 ### Database Knowledge
-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="60" alt="Oracle"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL"/>
+  <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
+
 </div>
 
-
-#### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
-# :link: [Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 
 ### Areas of Interest
 <div>
@@ -20,7 +17,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
 </div>
 
-   ##### 👯 I’m looking to collaborate on the entire developer community :computer:
+# :link: [My Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
+
+
+#### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
+
   
 <!--
 **OdairPanizziJunior/OdairPanizziJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
