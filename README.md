@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="40" alt="PHP"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
 
    
   
