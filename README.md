@@ -1,5 +1,5 @@
-## **Hi there** 👋
-### Welcome to my GitHub :copyright:
+## **Hi there** 👋, Welcome to my GitHub :copyright:
+
 
 ### Database Knowledge
 
