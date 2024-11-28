@@ -14,7 +14,7 @@
 
 ### Areas of Interest
 <div>
- <a href="href="https://html.spec.whatwg.org/" target="_blank">
+ <a href="https://html.spec.whatwg.org/" target="_blank">
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
  </a>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -23,9 +23,7 @@
 </div>
 
 <div>
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  </a>
+
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   </a>
