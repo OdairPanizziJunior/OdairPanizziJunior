@@ -35,6 +35,20 @@
   </a>
 </div>
 
+<div>
+  <a href="https://html.spec.whatwg.org/" onclick="window.open(this.href); return false;">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" onclick="window.open(this.href); return false;">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://www.php.net/" onclick="window.open(this.href); return false;">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="40" alt="PHP"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" onclick="window.open(this.href); return false;">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  </a>
+</div>
 
    ##### 👯 I’m looking to collaborate on the entire developer community :computer:
   
