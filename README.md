@@ -23,8 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
-
   
 <!--
 **OdairPanizziJunior/OdairPanizziJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
