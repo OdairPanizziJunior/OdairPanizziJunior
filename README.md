@@ -20,9 +20,9 @@
 
 
 ![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![OdairPanizziJunior's Stats](https://github-readme-stats.vercel.app/api?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![OdairPanizziJunior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OdairPanizziJunior&theme=vue-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### "Someone is sitting in the shadows today because someone planted a tree a long time ago.” - *Warren Buffet*
 
   
