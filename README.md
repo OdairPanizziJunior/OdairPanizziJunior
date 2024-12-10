@@ -1,5 +1,9 @@
 # **Hi there** 👋, Welcome to my GitHub :copyright:
 
+I'm always looking for knowledge and new challenges. 
+I'm sure that I can perform the tasks that were passed to me with excellence. 
+I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
+
 ### Areas of Interest
 <br>
 <div>
@@ -18,17 +22,16 @@
 
 # :link: [My Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 
-
-![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 [![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true)](https://www.linkedin.com/in/odairpanizzijunior/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://www.linkedin.com/in/odairpanizzijunior/)
 
   
 <!--
 **OdairPanizziJunior/OdairPanizziJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Lang Cards
+![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Here are some ideas to get you started:
 
