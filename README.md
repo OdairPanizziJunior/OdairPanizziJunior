@@ -1,11 +1,12 @@
 # **Hi there**👋
 
-About
+About...
 * 🔭 I'm always looking for knowledge and new challenges. 
 * ⚡ I'm sure that I can perform the tasks that were passed to me with excellence. 
 * 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
-
-### Areas of Interest
+<br>
+Areas of Interest...
+<br>
 <br>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -13,8 +14,9 @@ About
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="PHP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
 </div>
-
-### Database Knowledge
+<br>
+Database Knowledge...
+<br>
 <div>
   <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
