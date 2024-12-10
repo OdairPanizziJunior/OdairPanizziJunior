@@ -10,10 +10,11 @@ Areas of Interest...
 [![Areas of Interest](https://skillicons.dev/icons?i=js,html,css,php)](https://www.linkedin.com/in/odairpanizzijunior/)
 
 Database Knowledge...
+<div>
+  <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
+</div>
 
-[![Database Knowledge](https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/odairpanizzijunior/) 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/> 
 
 # :link: [My Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
 
@@ -30,10 +31,8 @@ Lang Cards
 ![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Skill Icons
-<div>
-  <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
-</div>
+[![Database Knowledge](https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/odairpanizzijunior/) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/> 
 
 Here are some ideas to get you started:
 
