@@ -4,18 +4,11 @@ About...
 * 🔭 I'm always looking for knowledge and new challenges. 
 * ⚡ I'm sure that I can perform the tasks that were passed to me with excellence. 
 * 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
-<br>
+
 Areas of Interest...
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br>
-<br>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
-</div>
-<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
 Database Knowledge...
 <br>
 <div>
