@@ -6,6 +6,7 @@ About...
 * 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
 <br>
 Areas of Interest...
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <br>
 <br>
 <div>
@@ -28,6 +29,7 @@ Database Knowledge...
 [![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true)](https://www.linkedin.com/in/odairpanizzijunior/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://www.linkedin.com/in/odairpanizzijunior/)
+
 
   
 <!--
