@@ -11,7 +11,7 @@ Areas of Interest...
 
 Database Knowledge...
 
-[![Database Knowledge](https://skillicons.dev/icons?i=mysql](https://www.linkedin.com/in/odairpanizzijunior/)
+[![Database Knowledge](https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/odairpanizzijunior/)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/> 
 
