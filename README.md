@@ -7,10 +7,12 @@ About...
 
 Areas of Interest...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![Areas of Interest](https://skillicons.dev/icons?i=js,html,css,php)](https://www.linkedin.com/in/odairpanizzijunior/)
 
 Database Knowledge...
-<br>
+
+[![Database Knowledge](https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/odairpanizzijunior/)
+
 <div>
   <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
