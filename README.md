@@ -10,10 +10,11 @@ Areas of Interest...
 [![Areas of Interest](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,docker,github)](https://www.linkedin.com/in/odairpanizzijunior/)
 
 Database Knowledge...
-<div>
-  <img src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle"/>
+<div style="width:120px; height:120px; border:1px solid black; border-radius: 0px 20px 0px 20px; display: inline-block; text-align: center; line-height: 120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg" height="90" alt="Oracle" style="vertical-align: middle;" />
 </div>
+
 
 
 # :link: [My Linkedin](https://www.linkedin.com/in/odairpanizzijunior/)
