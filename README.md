@@ -21,7 +21,7 @@
 
 ![OdairPanizziJunior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdairPanizziJunior)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SartoriGilson)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OdairPanizziJunior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
