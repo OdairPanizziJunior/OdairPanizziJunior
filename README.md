@@ -1,8 +1,9 @@
-# **Hi there** 👋, Welcome to my GitHub :copyright:
+# **Hi there**👋
 
-I'm always looking for knowledge and new challenges. 
-I'm sure that I can perform the tasks that were passed to me with excellence. 
-I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
+About
+* 🔭 I'm always looking for knowledge and new challenges. 
+* ⚡ I'm sure that I can perform the tasks that were passed to me with excellence. 
+* 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
 
 ### Areas of Interest
 <br>
@@ -44,5 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ##### :books: 
-##### :construction_worker: I’m currently working on JBS Foods
+##### :construction_worker: 
 -->
