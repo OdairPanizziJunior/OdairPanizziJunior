@@ -1,9 +1,9 @@
 # **Hey there**👋
 
 About...
-🔭 I'm always looking for knowledge and new challenges. 
-⚡ I'm sure that I can perform the tasks that were passed to me with excellence. 
-💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
+* 🔭 I'm always looking for knowledge and new challenges. 
+* ⚡ I'm sure that I can perform the tasks that were passed to me with excellence. 
+* 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
 
 Areas of Interest...
 
